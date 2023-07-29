@@ -1,0 +1,25 @@
+h1{
+    text-align:center;
+}
+
+.buttons{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    height:300px;
+    border:1px solid red;
+    background-color:aqua;
+    border-radius:5px;
+
+}
+.btns{
+    padding:10px;
+    margin:5px;
+
+}
+button{
+    
+}
+
+    
