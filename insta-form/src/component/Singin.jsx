@@ -14,6 +14,7 @@ function Signin(){
                 <input type="password" placeholder={"Enter your password"} onChange={(e)=>SetPassword(e.target.value)} />
                 <button className="signin">Signin</button>
             </form>
+            <h3>{Don't have an account?signp</h3>
         </div>
     )
 }
