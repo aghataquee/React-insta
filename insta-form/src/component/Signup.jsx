@@ -21,6 +21,7 @@ function Signup(){
                 <input type="password" value="cnfmpassword" placeholder={"confirm your password"} onChange={(e)=>setCnfm(e.target.value)}/>
                 <button type="submit" className="signup">SignUp</button>
             </form>
+            <h2>{have an account?signin</h2>
         </div>
     )
 }
